@@ -3026,3 +3026,4 @@ DanyLeeCS
 - [tyler kamrowski](https://github.com/sparkyboom28) - i like to game and code
 - [Malak Atitallah](https://github.com/malakatit) - My first contrubition
 - [yuktha](https://github.com/yuktha0505) - My first contrubition
+- [Ali Nedaiy](https://github.com/ali-88-bot)
